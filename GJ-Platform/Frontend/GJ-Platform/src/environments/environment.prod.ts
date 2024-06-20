@@ -1,5 +1,5 @@
 export const environment = {
-    apiUrl: '149.130.176.112' 
+    apiUrl: 'localhost' 
   };
 
   //149.130.176.112
